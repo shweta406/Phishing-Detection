@@ -1,0 +1,4 @@
+#jb bhi hm github rep me commit kre toh venv folder na rhe ya jo tm chahte vo folder usme git ignore me dal do toh vo commit krte hue ise ni lega isliye hm .gitignore bnate
+python-dotenv #to call environment variables
+pandas
+numpy
