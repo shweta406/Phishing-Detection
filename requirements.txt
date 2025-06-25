@@ -3,5 +3,6 @@ pandas
 numpy
 pymongo
 certifi
+pymongo[srv]==3.6
 
 ## -e . #this is responsible for event triggering in setup.py ... automatically printing all the entire packages
