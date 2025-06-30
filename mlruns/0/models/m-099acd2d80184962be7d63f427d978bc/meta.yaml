@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shwet/CodeStorage/Krish_Naik_ML/ktkr_10/complete_ml/network%20security/mlruns/0/models/m-099acd2d80184962be7d63f427d978bc/artifacts
+creation_timestamp: 1751286908540
+experiment_id: '0'
+last_updated_timestamp: 1751286911462
+model_id: m-099acd2d80184962be7d63f427d978bc
+model_type: null
+name: model
+source_run_id: e804780c3d1b4a0e9722c053e57aade5
+status: 2
+status_message: null
